@@ -1,14 +1,16 @@
 # Stablecoin Protocol (USDSK) 🏦
 
-A professional-grade, fiat-pegged stablecoin implementation built on Ethereum, inspired by the architecture of USDC.
+A professional-grade, fiat-pegged stablecoin implementation built on **Scroll (zkEVM)**, designed to enable seamless, low-cost asset transfers across continents.
 
 ## Overview
 
-The **Stablecoin Protocol (USDSK)** is an ERC20-compliant token designed for stability, security, and regulatory compliance. It features a robust access control system, minting/burning capabilities, and a pause mechanism for emergency situations.
+The **Stablecoin Protocol (USDSK)** is an ERC20-compliant token optimized for the **Scroll Layer 2 network**. By leveraging zk-Rollup technology, USDSK provides a scalable and secure solution for global financial inclusion, allowing users to transfer value across borders with near-instant finality and minimal fees.
 
 ## Key Features
 
-- **ERC20 Standard**: Fully compatible with all Ethereum-based wallets and exchanges.
+- **Scroll zkEVM Integration**: Optimized for high throughput and low transaction costs on the Scroll network.
+- **Cross-Continent Utility**: Designed for frictionless global remittances and cross-border payments.
+- **ERC20 Standard**: Fully compatible with all Ethereum and Scroll-based wallets and DeFi protocols.
 - **6 Decimals**: Matches the precision of USDC for seamless integration.
 - **Access Control**: Role-based permissions for Minting, Pausing, and Administration.
 - **Emergency Pause**: Ability to halt transfers in case of security threats.

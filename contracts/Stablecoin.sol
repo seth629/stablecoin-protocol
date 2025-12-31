@@ -26,6 +26,7 @@ contract Stablecoin is ERC20, ERC20Burnable, AccessControl, ERC20Permit {
     {
         _grantRole(DEFAULT_ADMIN_ROLE, defaultAdmin);
         _grantRole(MINTER_ROLE, minter);
+        _mint(defaultAdmin, 1000000 * 10 ** decimals());
     }
 
     modifier whenNotPaused() {

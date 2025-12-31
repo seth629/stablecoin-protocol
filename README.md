@@ -12,6 +12,7 @@ The **Stablecoin Protocol (USDSK)** is an ERC20-compliant token optimized for th
 - **Cross-Continent Utility**: Designed for frictionless global remittances and cross-border payments.
 - **ERC20 Standard**: Fully compatible with all Ethereum and Scroll-based wallets and DeFi protocols.
 - **6 Decimals**: Matches the precision of USDC for seamless integration.
+- **Total Supply**: 1,000,000 USDSK (Initial Mint).
 - **Access Control**: Role-based permissions for Minting, Pausing, and Administration.
 - **Emergency Pause**: Ability to halt transfers in case of security threats.
 - **Gasless Approvals**: Implements EIP-2612 (Permit) for better user experience.

